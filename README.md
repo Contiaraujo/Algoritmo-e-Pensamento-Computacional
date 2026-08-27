@@ -1,11 +1,17 @@
-# Algoritmo-e-pensamento-computacional-Aula-2
-Códigos em C++ da aula do Nelson de Algoritmo e pensamento computacional 
+# Algoritmo e Pensamento Computacional
 
-main.cpp > Primeiro exercicio |
-main2.cpp > Segundo exercicio
+Repositório destinado a reunir os exercícios desenvolvidos na disciplina de
+Algoritmo e Pensamento Computacional.
 
-Exercício extras do professor
+## Sobre o projeto
 
-exer1.cpp
-exer2.cpp
-exer3.cpp
+Os exercícios começaram na **Aula 2**, quando tivemos nosso primeiro contato
+com a linguagem C. Desde então, o repositório vem sendo utilizado para praticar
+lógica de programação, desenvolver exercícios extras e consolidar a sintaxe da
+linguagem.
+
+## Objetivos
+
+- Desenvolver o raciocínio lógico e o pensamento computacional;
+- Praticar os fundamentos da linguagem C;
+- Registrar e acompanhar a evolução dos exercícios realizados em aula.
